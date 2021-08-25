@@ -1,10 +1,8 @@
 
 ## Codigos portfolio
-* [Banco de dados] (BancoDeDados/)
-
-* [Desenvolvimento de Sistemas] (DesenvolvimentoDeSistemas/)
-
-* [Programação de Aplicativos] (ProgramacaoDeAplicativos/Cameraaa/)
+* [Banco de dados](BancoDeDados/)
+* [Desenvolvimento de Sistemas](DesenvolvimentoDeSistemas/)
+* [Programação de Aplicativos](ProgramacaoDeAplicativos/Cameraaa/)
 
 
 
